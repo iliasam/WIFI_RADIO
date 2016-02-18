@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?>
+
+<cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+	<storageModule moduleId="org.eclipse.cdt.core.settings">
+		<cconfiguration id="org.eclipse.cdt.core.default.config.1758903934">
+			<storageModule buildSystemId="org.eclipse.cdt.core.defaultConfigDataProvider" id="org.eclipse.cdt.core.default.config.1758903934" moduleId="org.eclipse.cdt.core.settings" name="Configuration">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings">
+				<externalSettings containerId="org.coocox.ExternalSettings" factoryId="org.eclipse.cdt.core.extension.container.factory">
+					<externalSetting>
+						<entry flags="" kind="includePath" name="C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\include"/>
+						<entry flags="" kind="includePath" name="C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.6.1\include"/>
+						<entry flags="" kind="includePath" name="C:\Program Files\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.6.1\include-fixed"/>
+						<entry flags="" kind="includePath" name="."/>
+						<entry flags="" kind="includePath" name="cmsis"/>
+						<entry flags="" kind="includePath" name="cmsis_boot"/>
+						<entry flags="" kind="includePath" name="inc"/>
+						<entry flags="" kind="includePath" name="Libraries/STM32F4xx_StdPeriph_Driver/inc"/>
+						<entry flags="" kind="includePath" name="src"/>
+						<entry flags="" kind="includePath" name="src/libmad"/>
+						<entry flags="" kind="includePath" name="Utilities/STM32F4-Discovery"/>
+						<entry flags="" kind="macro" name="__GNUC__" value=""/>
+						<entry flags="" kind="macro" name="USE_STDPERIPH_DRIVER" value=""/>
+						<entry flags="" kind="macro" name="FPM_ARM" value=""/>
+						<entry flags="" kind="macro" name="__FPU_USED" value=""/>
+						<entry flags="" kind="macro" name="STM32F407VG" value=""/>
+					</externalSetting>
+				</externalSettings>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.language.mapping"/>
+			<storageModule moduleId="org.eclipse.cdt.internal.ui.text.commentOwnerProjectMappings"/>
+			<storageModule moduleId="org.eclipse.cdt.core.pathentry">
+				<pathentry kind="src" path=""/>
+				<pathentry include="C:/Program Files/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/arm-none-eabi/include" kind="inc" path="" system="true"/>
+				<pathentry include="C:/Program Files/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.1/include" kind="inc" path="" system="true"/>
+				<pathentry include="C:/Program Files/CodeSourcery/Sourcery_CodeBench_Lite_for_ARM_EABI/lib/gcc/arm-none-eabi/4.6.1/include-fixed" kind="inc" path="" system="true"/>
+				<pathentry include="D:/MYPROGS/STM32F4/mp3/coocox/3/3" kind="inc" path="" system="true"/>
+				<pathentry include="D:/MYPROGS/STM32F4/mp3/coocox/3/3/cmsis" kind="inc" path="" system="true"/>
+				<pathentry include="D:/MYPROGS/STM32F4/mp3/coocox/3/3/cmsis_boot" kind="inc" path="" system="true"/>
+				<pathentry include="D:/MYPROGS/STM32F4/mp3/coocox/3/3/inc" kind="inc" path="" system="true"/>
+				<pathentry include="D:/MYPROGS/STM32F4/mp3/coocox/3/3/Libraries/STM32F4xx_StdPeriph_Driver/inc" kind="inc" path="" system="true"/>
+				<pathentry include="D:/MYPROGS/STM32F4/mp3/coocox/3/3/src" kind="inc" path="" system="true"/>
+				<pathentry include="D:/MYPROGS/STM32F4/mp3/coocox/3/3/src/libmad" kind="inc" path="" system="true"/>
+				<pathentry include="D:/MYPROGS/STM32F4/mp3/coocox/3/3/Utilities/STM32F4-Discovery" kind="inc" path="" system="true"/>
+				<pathentry kind="mac" name="__GNUC__" path="" value=""/>
+				<pathentry kind="mac" name="USE_STDPERIPH_DRIVER" path="" value=""/>
+				<pathentry kind="mac" name="FPM_ARM" path="" value=""/>
+				<pathentry kind="mac" name="__FPU_USED" path="" value=""/>
+				<pathentry kind="mac" name="STM32F407VG" path="" value=""/>
+				<pathentry kind="out" path=""/>
+			</storageModule>
+		</cconfiguration>
+	</storageModule>
+</cproject>
